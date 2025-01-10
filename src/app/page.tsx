@@ -1,4 +1,3 @@
-import jwt from "jsonwebtoken"
 import cookie from 'cookie'
 import Head from "next/head"
 import styles from "../styles/Styles.module.css"
